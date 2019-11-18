@@ -1,4 +1,9 @@
 # E11b-First-Person
+# Description
+# This assignment I followed the tutorial on youtube to create a 3D FPS character on a
+# given environment. I learned how to handle the character and camera movement. Also, 
+# I learned how to import an object into Godot. The tutorial ended after import the 
+# shotgun, I think I will take a look on the next video to learn how to fire.
 
 This is an opportunity to begin to experiment with a first-person perspective in a Godot 3D environment. This exercise will involve creating collision shapes to represent the player's body and then controlling the camera with the keyboard and mouse.
 
